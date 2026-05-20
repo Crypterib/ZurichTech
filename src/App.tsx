@@ -890,19 +890,19 @@ export default function App() {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5">
             {[
               {
-                name: "Ahmad Musa",
+                name: "Frank Ochigbo",
                 role: "Sr. Software Engineer",
+                img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&h=530&q=80"
+              },
+              {
+                name: "Atteng Simeon",
+                role: "UI/UX Expert",
                 img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&h=530&q=80"
               },
               {
-                name: "Khalid Mahmud",
-                role: "UI/UX Expert",
-                img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&h=530&q=80"
-              },
-              {
-                name: "Emmanuel David",
+                name: "Iman Shuaibu",
                 role: "Sr. Engineer / DevOps",
-                img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&h=530&q=80"
+                img: "https://images.unsplash.com/photo-1590650213165-c1fef80648c4?auto=format&fit=crop&w=400&h=530&q=80"
               }
             ].map((member, idx) => (
               <div key={idx} className="team-card group cursor-pointer">
