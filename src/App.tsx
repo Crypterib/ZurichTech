@@ -547,55 +547,49 @@ export default function App() {
             {/* Set 1 */}
             <div className="flex items-center gap-12 px-6 shrink-0">
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dangote_Group_Logo.svg/1200px-Dangote_Group_Logo.svg.png" alt="Dangote" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/dangotelogo.png" alt="Dangote" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Arik_Air_Logo.svg/1200px-Arik_Air_Logo.svg.png" alt="Arik Air" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/arikairlogo.png" alt="Arik Air" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/FIRS_Nigeria_Logo.svg/1200px-FIRS_Nigeria_Logo.svg.png" alt="FIRS" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/firslogo.png" alt="FIRS" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-44 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/FSDH_Merchant_Bank_Logo.svg/1200px-FSDH_Merchant_Bank_Logo.svg.png" alt="FSDH Merchant Bank" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/fsdhlogo.png" alt="FSDH Merchant Bank" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aero_Contractors_Logo.svg/1200px-Aero_Contractors_Logo.svg.png" alt="Aero" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/aerologo.png" alt="Aero" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Della_Credit_Logo.svg/1200px-Della_Credit_Logo.svg.png" alt="Della Credit" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/aellacreditlogo.png" alt="Aella Credit" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-44 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hall_7_Real_Estate_Logo.svg/1200px-Hall_7_Real_Estate_Logo.svg.png" alt="Hall 7 Real Estate" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
-              </div>
-              <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aella_Credit_Logo.svg/1200px-Aella_Credit_Logo.svg.png" alt="Aella Credit" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/hall7logo.png" alt="Hall 7 Real Estate" className="max-h-8 w-auto object-contain" />
               </div>
             </div>
             {/* Set 2 */}
             <div className="flex items-center gap-12 px-6 shrink-0">
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dangote_Group_Logo.svg/1200px-Dangote_Group_Logo.svg.png" alt="Dangote" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/dangotelogo.png" alt="Dangote" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Arik_Air_Logo.svg/1200px-Arik_Air_Logo.svg.png" alt="Arik Air" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/arikairlogo.png" alt="Arik Air" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/FIRS_Nigeria_Logo.svg/1200px-FIRS_Nigeria_Logo.svg.png" alt="FIRS" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/firslogo.png" alt="FIRS" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-44 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/FSDH_Merchant_Bank_Logo.svg/1200px-FSDH_Merchant_Bank_Logo.svg.png" alt="FSDH Merchant Bank" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/fsdhlogo.png" alt="FSDH Merchant Bank" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aero_Contractors_Logo.svg/1200px-Aero_Contractors_Logo.svg.png" alt="Aero" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/aerologo.png" alt="Aero" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Della_Credit_Logo.svg/1200px-Della_Credit_Logo.svg.png" alt="Della Credit" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/aellacreditlogo.png" alt="Aella Credit" className="max-h-8 w-auto object-contain" />
               </div>
               <div className="partner-logo flex items-center justify-center h-16 w-44 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hall_7_Real_Estate_Logo.svg/1200px-Hall_7_Real_Estate_Logo.svg.png" alt="Hall 7 Real Estate" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
-              </div>
-              <div className="partner-logo flex items-center justify-center h-16 w-40 filter grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-300">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aella_Credit_Logo.svg/1200px-Aella_Credit_Logo.svg.png" alt="Aella Credit" className="max-h-8 w-auto object-contain" referrerPolicy="no-referrer" />
+                <img src="/logos/hall7logo.png" alt="Hall 7 Real Estate" className="max-h-8 w-auto object-contain" />
               </div>
             </div>
           </div>
