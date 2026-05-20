@@ -1,0 +1,6 @@
+{
+  "name": "Zurich Technologies Redesign",
+  "description": "An ultra-modern website redesign for Zurich Technologies, featuring an interactive solutions architect, instant quote calculator, live services preview, and high-fidelity tech-driven visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
